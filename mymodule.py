@@ -3,5 +3,5 @@ import json
 
 api_key="xxxxx"
 
-def get_city_weather(city):
+def get_weather(city):
     print("Hello World")
